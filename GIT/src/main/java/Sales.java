@@ -6,5 +6,6 @@ public class Sales {
 	public void display() {
 		System.out.println("hello sales");
 		System.out.println("hello sales2");
+		System.out.println("hello sales3");
 	}
 }
